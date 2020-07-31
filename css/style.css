@@ -1,0 +1,18 @@
+body {
+    width: 100%;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.tab-form.active,
+#tab-1:checked ~ #auth,
+#tab-2:checked ~ #reg {
+    display: block;
+}
+
+.tab-form {
+    display: none;
+}
