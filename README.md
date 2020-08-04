@@ -1,4 +1,4 @@
-PHP - http://beee.zzz.com.ua/work/
+PHP - https://beee.zzz.com.ua/work/
 
 SQL - файл SQL.sql
 
